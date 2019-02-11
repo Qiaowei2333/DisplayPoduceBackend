@@ -1,6 +1,5 @@
 var express = require('express');
 const produce = require('./mockData');
-
 var app = express();
 
 app.get('/produce/:name', function(req, res) {
