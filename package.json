@@ -1,0 +1,17 @@
+{
+  "name": "takehomeprojectbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qiaowei Li",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "faker": "^4.1.0",
+    "multer": "^1.4.1"
+  }
+}
